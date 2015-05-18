@@ -1,0 +1,2 @@
+# V8-Solenoid-Engine
+Control firmware for a Solenoid V8 Engine. Features a rotary shaft encoder input for crank shaft position sensing. This signal controls the comutation of solenoid-based cylinders using MOSFETs. A second rotary shaft encoder input is used user control Three Mode options; 1) Direct PWM level control to FETs that power the solenoids 2) Speed control mode with PID Compensation 3) Test and tuning with terminal interface to adjust PID parameters
